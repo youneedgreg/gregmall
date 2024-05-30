@@ -16,6 +16,7 @@ function App() {
     <div className="App">
       <Header/>
       <Navbar/>
+      <Navbar/>
       <Empty/>
       <Carousel/>
       <Collection/>
